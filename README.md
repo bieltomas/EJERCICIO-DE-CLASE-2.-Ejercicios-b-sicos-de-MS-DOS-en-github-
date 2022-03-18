@@ -1,1 +1,1 @@
-# EJERCICIO-DE-CLASE-2.-Ejercicios-b-sicos-de-MS-DOS-en-github-
+# EJERCICIO DE CLASE 2. Ejercicios basicos de MS DOS en github.
